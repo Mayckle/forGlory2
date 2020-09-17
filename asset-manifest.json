@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/forGlory2/static/css/main.926ddff7.chunk.css",
-    "main.js": "/forGlory2/static/js/main.7b02eb6a.chunk.js",
-    "main.js.map": "/forGlory2/static/js/main.7b02eb6a.chunk.js.map",
+    "main.js": "/forGlory2/static/js/main.87b8e05f.chunk.js",
+    "main.js.map": "/forGlory2/static/js/main.87b8e05f.chunk.js.map",
     "runtime-main.js": "/forGlory2/static/js/runtime-main.36e26e63.js",
     "runtime-main.js.map": "/forGlory2/static/js/runtime-main.36e26e63.js.map",
     "static/js/2.7945ef16.chunk.js": "/forGlory2/static/js/2.7945ef16.chunk.js",
     "static/js/2.7945ef16.chunk.js.map": "/forGlory2/static/js/2.7945ef16.chunk.js.map",
     "index.html": "/forGlory2/index.html",
-    "precache-manifest.2f28d04c4dbbff860727149b07ab5b3f.js": "/forGlory2/precache-manifest.2f28d04c4dbbff860727149b07ab5b3f.js",
+    "precache-manifest.50efb698d6ff51680fd517c3cba307d0.js": "/forGlory2/precache-manifest.50efb698d6ff51680fd517c3cba307d0.js",
     "service-worker.js": "/forGlory2/service-worker.js",
     "static/css/main.926ddff7.chunk.css.map": "/forGlory2/static/css/main.926ddff7.chunk.css.map",
     "static/js/2.7945ef16.chunk.js.LICENSE.txt": "/forGlory2/static/js/2.7945ef16.chunk.js.LICENSE.txt",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.36e26e63.js",
     "static/js/2.7945ef16.chunk.js",
     "static/css/main.926ddff7.chunk.css",
-    "static/js/main.7b02eb6a.chunk.js"
+    "static/js/main.87b8e05f.chunk.js"
   ]
 }
