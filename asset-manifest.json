@@ -1,18 +1,20 @@
 {
   "files": {
-    "main.css": "/forGlory2/static/css/main.7282c5ba.chunk.css",
-    "main.js": "/forGlory2/static/js/main.e45766a1.chunk.js",
-    "main.js.map": "/forGlory2/static/js/main.e45766a1.chunk.js.map",
+    "main.css": "/forGlory2/static/css/main.fcd791d0.chunk.css",
+    "main.js": "/forGlory2/static/js/main.22411779.chunk.js",
+    "main.js.map": "/forGlory2/static/js/main.22411779.chunk.js.map",
     "runtime-main.js": "/forGlory2/static/js/runtime-main.36e26e63.js",
     "runtime-main.js.map": "/forGlory2/static/js/runtime-main.36e26e63.js.map",
-    "static/js/2.29006468.chunk.js": "/forGlory2/static/js/2.29006468.chunk.js",
-    "static/js/2.29006468.chunk.js.map": "/forGlory2/static/js/2.29006468.chunk.js.map",
+    "static/js/2.f0f6f867.chunk.js": "/forGlory2/static/js/2.f0f6f867.chunk.js",
+    "static/js/2.f0f6f867.chunk.js.map": "/forGlory2/static/js/2.f0f6f867.chunk.js.map",
     "index.html": "/forGlory2/index.html",
-    "precache-manifest.8fbc1f1f897bff2304383aeada68c1a1.js": "/forGlory2/precache-manifest.8fbc1f1f897bff2304383aeada68c1a1.js",
+    "precache-manifest.a7485480b744d8a93c24089751d6bf56.js": "/forGlory2/precache-manifest.a7485480b744d8a93c24089751d6bf56.js",
     "service-worker.js": "/forGlory2/service-worker.js",
-    "static/css/main.7282c5ba.chunk.css.map": "/forGlory2/static/css/main.7282c5ba.chunk.css.map",
-    "static/js/2.29006468.chunk.js.LICENSE.txt": "/forGlory2/static/js/2.29006468.chunk.js.LICENSE.txt",
+    "static/css/main.fcd791d0.chunk.css.map": "/forGlory2/static/css/main.fcd791d0.chunk.css.map",
+    "static/js/2.f0f6f867.chunk.js.LICENSE.txt": "/forGlory2/static/js/2.f0f6f867.chunk.js.LICENSE.txt",
+    "static/media/Dominique Buttiens.jpg": "/forGlory2/static/media/Dominique Buttiens.d6f03329.jpg",
     "static/media/Harbor.jpg": "/forGlory2/static/media/Harbor.90d75394.jpg",
+    "static/media/VikingVillige.jpg": "/forGlory2/static/media/VikingVillige.26c68e89.jpg",
     "static/media/iconSetting.png": "/forGlory2/static/media/iconSetting.6b911b1d.png",
     "static/media/logo.png": "/forGlory2/static/media/logo.fcf8ffdb.png",
     "static/media/sam.png": "/forGlory2/static/media/sam.d64f721d.png",
@@ -20,8 +22,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.36e26e63.js",
-    "static/js/2.29006468.chunk.js",
-    "static/css/main.7282c5ba.chunk.css",
-    "static/js/main.e45766a1.chunk.js"
+    "static/js/2.f0f6f867.chunk.js",
+    "static/css/main.fcd791d0.chunk.css",
+    "static/js/main.22411779.chunk.js"
   ]
 }
