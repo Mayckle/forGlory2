@@ -1,19 +1,22 @@
 {
   "files": {
-    "main.css": "/forGlory2/static/css/main.0a1aa662.chunk.css",
-    "main.js": "/forGlory2/static/js/main.c21a1788.chunk.js",
-    "main.js.map": "/forGlory2/static/js/main.c21a1788.chunk.js.map",
+    "main.css": "/forGlory2/static/css/main.1f05e89c.chunk.css",
+    "main.js": "/forGlory2/static/js/main.8aebd097.chunk.js",
+    "main.js.map": "/forGlory2/static/js/main.8aebd097.chunk.js.map",
     "runtime-main.js": "/forGlory2/static/js/runtime-main.36e26e63.js",
     "runtime-main.js.map": "/forGlory2/static/js/runtime-main.36e26e63.js.map",
-    "static/js/2.f0f6f867.chunk.js": "/forGlory2/static/js/2.f0f6f867.chunk.js",
-    "static/js/2.f0f6f867.chunk.js.map": "/forGlory2/static/js/2.f0f6f867.chunk.js.map",
+    "static/js/2.cb02f9fd.chunk.js": "/forGlory2/static/js/2.cb02f9fd.chunk.js",
+    "static/js/2.cb02f9fd.chunk.js.map": "/forGlory2/static/js/2.cb02f9fd.chunk.js.map",
     "index.html": "/forGlory2/index.html",
-    "precache-manifest.5d7875bcdbe0c621fa1325c7fd0dbc09.js": "/forGlory2/precache-manifest.5d7875bcdbe0c621fa1325c7fd0dbc09.js",
+    "precache-manifest.bdda54d5c4263ae0fa7cc601e8edfbea.js": "/forGlory2/precache-manifest.bdda54d5c4263ae0fa7cc601e8edfbea.js",
     "service-worker.js": "/forGlory2/service-worker.js",
-    "static/css/main.0a1aa662.chunk.css.map": "/forGlory2/static/css/main.0a1aa662.chunk.css.map",
-    "static/js/2.f0f6f867.chunk.js.LICENSE.txt": "/forGlory2/static/js/2.f0f6f867.chunk.js.LICENSE.txt",
+    "static/css/main.1f05e89c.chunk.css.map": "/forGlory2/static/css/main.1f05e89c.chunk.css.map",
+    "static/js/2.cb02f9fd.chunk.js.LICENSE.txt": "/forGlory2/static/js/2.cb02f9fd.chunk.js.LICENSE.txt",
     "static/media/Dominique Buttiens.jpg": "/forGlory2/static/media/Dominique Buttiens.d6f03329.jpg",
     "static/media/Harbor.jpg": "/forGlory2/static/media/Harbor.90d75394.jpg",
+    "static/media/March.jpg": "/forGlory2/static/media/March.8edd716c.jpg",
+    "static/media/SliderShow2.jpg": "/forGlory2/static/media/SliderShow2.0071d9b3.jpg",
+    "static/media/SliderShow3.jpg": "/forGlory2/static/media/SliderShow3.3f72a259.jpg",
     "static/media/VikingVillige.jpg": "/forGlory2/static/media/VikingVillige.26c68e89.jpg",
     "static/media/iconSetting.png": "/forGlory2/static/media/iconSetting.6b911b1d.png",
     "static/media/logo.png": "/forGlory2/static/media/logo.fcf8ffdb.png",
@@ -22,8 +25,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.36e26e63.js",
-    "static/js/2.f0f6f867.chunk.js",
-    "static/css/main.0a1aa662.chunk.css",
-    "static/js/main.c21a1788.chunk.js"
+    "static/js/2.cb02f9fd.chunk.js",
+    "static/css/main.1f05e89c.chunk.css",
+    "static/js/main.8aebd097.chunk.js"
   ]
 }
